@@ -12,7 +12,7 @@ defmodule MyApp do
       :world
 
   """
-  def hello do
-    :world
+  def hello(param) do
+    param
   end
 end
