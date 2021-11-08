@@ -1,6 +1,6 @@
-# MyApp
+# Dialyxir Sample
 
-**TODO: Add description**
+【kokura.ex】「ElixirドキュメントやTypespecsを書いてみよう！」勉強会用
 
 ## Installation
 
